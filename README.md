@@ -1,4 +1,4 @@
-# Cryptography-2
+Cryptography-2
 Hashing and encryption
 openssl rand -base64 32 >key.bin
 openssl rand -base64 16 >charlie.bin
